@@ -1,11 +1,11 @@
 {
-  "name": "natural-language-classifier",
+  "name": "tutor",
   "version": "0.1.0",
-  "description": "Bluemix application that use IBM Watson's Natural Language Classifier service",
+  "description": "Tutor is an application that use IBM Watson's Natural Language Classifier service",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/filipecorrea/natural-language-classifier.git"
+    "url": "git://github.com/filipecorrea/tutor.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
